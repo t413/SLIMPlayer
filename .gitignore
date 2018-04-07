@@ -2,3 +2,6 @@
 *.o
 muplay
 slimplayer
+.DS_Store
+/build
+/.idea
